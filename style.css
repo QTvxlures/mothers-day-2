@@ -1,0 +1,19 @@
+h1{
+ font-family: 'Pangolin', cursive;   
+  margin:25px;
+      color:aqua;
+}
+body{
+    background-color:deeppink;
+     text-align: center;
+    
+}
+img{
+    border-radius: 20%;
+}
+p{
+    color:aqua;
+    font-family: 'Pangolin', cursive; 
+        font-size: 42px;
+        
+}
